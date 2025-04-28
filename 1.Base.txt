@@ -1,0 +1,10 @@
+Craxsrat for kali linux
+1. install required packages.
+sudo apt update && sudo apt install adb openjdk-17-jdk unzip zip python3-pip
+
+2. Update kali packages
+sudo apt update && sudo apt upgrade -y
+
+3.Install git
+sudo apt install git -y
+
