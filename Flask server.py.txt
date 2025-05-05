@@ -1,0 +1,24 @@
+from flask import Flask, request
+import os
+from werkzeug.utils import secure_filename
+
+app = Flask(__name__)
+UPLOAD_FOLDER = 'uploads'
+os.makedirs(UPLOAD_FOLDER, exist_ok=True)
+
+@app.route('/upload', methods=['POST'])
+def upload_file():
+    device_id = request.headers.get('Device-ID', 'unknown_device')
+    device_folder = os.path.join(UPLOAD_FOLDER, secure_filename(device_id))
+    os.makedirs(device_folder, exist_ok=True)
+
+    file_name = request.headers.get('File-Name', 'unnamed_file')
+    file_path = os.path.join(device_folder, secure_filename(file_name))
+
+    with open(file_path, 'wb') as f:
+        f.write(request.get_data())
+
+    return f"File saved to {file_path}", 200
+
+if __name__ == '__main__':
+    app.run(debug=True)
