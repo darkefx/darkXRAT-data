@@ -31,7 +31,9 @@ chmod +x install.sh
 ```
 2. use the apk zip to import app to android studio
 3. Run ngrok and server and put server link in app code -> build app. DONE
+
 🧪 How to Use
+
 Send the APK to the target device (victim).
 
 Convince the victim to install it.
