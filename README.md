@@ -45,7 +45,7 @@ Once installed, the victim taps GlowAI, and data exfiltration begins in the back
 🧾 Legal & Credits
 🔒 This project is for educational and cybersecurity testing purposes only.
 
-👨‍💻 Authored 100% by kool_efx — no external scripts, clones, or copied code were used.
+👨‍💻 Authored 100% by kool_efx — no external scripts, clones, or copied code were used.  Special Thanks to [@74lg0](https://github.com/74lg0) for the help!
 
 ❗ Unauthorized use for malicious purposes is strictly discouraged.
 
