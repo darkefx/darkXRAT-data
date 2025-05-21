@@ -1,4 +1,4 @@
-# 🛠 KOOLXRAT (Exclusive by dark_efx)
+# 🛠 darkXRAT (Exclusive by dark_efx)
 
 **Platform Flow:**
 - 📱 Victim Device → Android
