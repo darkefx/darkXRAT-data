@@ -50,6 +50,16 @@ Once installed, the victim taps GlowAI, and data exfiltration begins in the back
 ❗ Unauthorized use for malicious purposes is strictly discouraged.
 
 
+## 📺 Project Demo
+
+[![Watch the demo](https://img.youtube.com/vi/oXGxLBsN_Ys/0.jpg)](https://www.youtube.com/watch?v=oXGxLBsN_Ys)
+
+> ⚠️ **Disclaimer**  
+> This video and project are intended for **educational and ethical cybersecurity research** only.  
+> All demonstrations are done in **controlled environments** and comply with **legal and responsible disclosure guidelines**.  
+> Unauthorized use of any code or method shown is strictly prohibited.
+
+
 
 
 # App Frontend
