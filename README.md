@@ -61,9 +61,3 @@ Once installed, the victim taps GlowAI, and data exfiltration begins in the back
 
 
 
-
-# App Frontend
-![image](https://github.com/user-attachments/assets/bba5f5ae-182d-4cd7-913f-8f2fba29a850)
-
-# APP BACKEND (TEST ON Android) Results
-![image](https://github.com/user-attachments/assets/115a3229-f1a9-4c67-a912-bd055580dd99)
