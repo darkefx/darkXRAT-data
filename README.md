@@ -52,7 +52,8 @@ Once installed, the victim taps GlowAI, and data exfiltration begins in the back
 
 ## 📺 Project Demo
 
-[![Watch the demo](https://img.youtube.com/vi/oXGxLBsN_Ys/0.jpg)](https://www.youtube.com/watch?v=oXGxLBsN_Ys)
+[![Watch the demo](https://img.youtube.com/vi/wouURPQ4Veg/0.jpg)](https://www.youtube.com/watch?v=wouURPQ4Veg)
+
 
 > ⚠️ **Disclaimer**  
 > This video and project are intended for **educational and ethical cybersecurity research** only.  
